@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##✨About Me
+## ✨About Me
 🎂 **Birhday**: 2007.09.11
 
 🤵 **School Currently Attending**: Hanam Management High School (하남경영고등학교)
@@ -25,10 +25,10 @@
 ![mySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
 ## ⚡ Metrics
-**Github Status**
+##### Github Status
 ![jeongheegenius's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongheegenius&show_icons=true&theme=tokyonight)
 
-**Top Language**
+##### Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongheegenius&layout=compact&theme=tokyonight)
 
 <!--
